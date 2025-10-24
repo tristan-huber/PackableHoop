@@ -152,8 +152,8 @@
     {
       "atomType": "GitHubMolecule",
       "name": "RotatePattern",
-      "x": 0.30078125,
-      "y": 0.8571428571428571,
+      "x": 0.2936197916666667,
+      "y": 0.7171428571428571,
       "uniqueID": "8da7d38d-337f-470c-9490-baad80176242",
       "ioValues": [
         {
@@ -604,8 +604,8 @@
     {
       "atomType": "Intersection",
       "name": "Intersection",
-      "x": 0.5169270833333334,
-      "y": 0.47714285714285715,
+      "x": 0.47265625,
+      "y": 0.49142857142857144,
       "uniqueID": "edd1d6c6-cda5-4cb3-bd12-25dac57e38f7",
       "ioValues": []
     },
