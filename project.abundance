@@ -950,29 +950,29 @@
     {
       "atomType": "GitHubMolecule",
       "name": "Linear-Pattern",
-      "x": 0.5,
-      "y": 0.6,
+      "x": 0.8639322916666666,
+      "y": 0.5657142857142857,
       "uniqueID": "71196f37-67ad-43cd-92db-2b18aa848e8d",
       "ioValues": [
         {
           "name": "Number",
-          "ioValue": 4
-        },
-        {
-          "name": "Geometry",
-          "ioValue": 10
+          "ioValue": 5,
+          "currentEquation": "layers / 2"
         },
         {
           "name": "distX",
-          "ioValue": 10
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "distY",
-          "ioValue": 10
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "distZ",
-          "ioValue": 10
+          "ioValue": 0.5,
+          "currentEquation": "materialThickness * 2"
         }
       ],
       "topLevel": false,
@@ -1028,24 +1028,20 @@
           "uniqueID": "5849f260-1ce5-444e-b813-955d3fa74098",
           "ioValues": [
             {
-              "name": "Shape",
-              "ioValue": 10
-            },
-            {
               "name": "Number",
-              "ioValue": 4
+              "ioValue": 5
             },
             {
               "name": "distX",
-              "ioValue": 10
+              "ioValue": 0
             },
             {
               "name": "distY",
-              "ioValue": 10
+              "ioValue": 0
             },
             {
               "name": "distZ",
-              "ioValue": 10
+              "ioValue": 0.5
             }
           ],
           "codeVersion": 1,
@@ -1302,8 +1298,14 @@
     },
     {
       "ap1Name": "geometry",
-      "ap2Name": "number or geometry",
+      "ap2Name": "Geometry",
       "ap1ID": "c4b68f44-81a1-484b-b705-dda8fe46981f",
+      "ap2ID": "71196f37-67ad-43cd-92db-2b18aa848e8d"
+    },
+    {
+      "ap1Name": "geometry or number",
+      "ap2Name": "number or geometry",
+      "ap1ID": "71196f37-67ad-43cd-92db-2b18aa848e8d",
       "ap2ID": "c8a8cdb8-c04c-4c10-8d06-a1288df66b81"
     }
   ],
