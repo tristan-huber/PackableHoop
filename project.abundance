@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "PackableHoop",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "e76f176c-654f-4e99-8638-bbf76628a6ee",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "Inches",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
