@@ -4,6 +4,14 @@
 
 ![](/project.svg)
 
+## Inputs
+
+- **diameter** (number)
+- **layers** (number)
+- **width** (number)
+- **materialThickness** (number)
+
+
 
 
  
